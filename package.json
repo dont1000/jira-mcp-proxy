@@ -1,14 +1,9 @@
 {
   "name": "jira-mcp-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+ "version": "1.0.0",
   "scripts": {
-     "start": "mcp-server-atlassian-jira"
+    "start": "mcp-atlassian-jira"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "@aashari/mcp-server-atlassian-jira": "^3.3.0"
   }
