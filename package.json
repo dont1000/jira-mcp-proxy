@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-	"start": "mcp-proxy --port 3000 -- npx @atlassian/mcp-atlassian"
+	  "start": "mcp-proxy --port 3000 -- npx @atlassian/mcp-atlassian",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
