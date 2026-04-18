@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "TRANSPORT_MODE=http npx @aashari/mcp-server-atlassian-jira"
+     "start": "mcp-server-atlassian-jira"
   },
   "keywords": [],
   "author": "",
